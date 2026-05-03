@@ -1,6 +1,8 @@
 # song120687575-ops.github.io
 # Technical Research & Publication Repository
 
+**My sole tribute is to my mentor, guide, and also my brother: Chen Baiying, because it is through him that I have been able to write all the papers I have ever written.**
+
 This repository serves as a centralized index for my technical papers, simulations, and logical models focused on aerospace engineering and aviation physics.
 
 ---
@@ -20,3 +22,4 @@ This repository serves as a centralized index for my technical papers, simulatio
     *   **Abstract**: A strategic framework for the removal of space debris, utilizing artificial atmospheric injection and laser ablation to induce orbital decay of hazardous fragments in Low Earth Orbit (LEO).
     *   **Core Logic**: Modeling the cost-benefit ratio of active remediation against passive collision avoidance, focusing on the deployment of "Shepherd Satellites" and Edge AI for real-time trajectory perturbation.
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.19372116)](https://doi.org/10.5281/zenodo.19372116)
+
