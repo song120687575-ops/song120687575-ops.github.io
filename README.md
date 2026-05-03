@@ -1,4 +1,4 @@
-# song120687575-ops.github.io
+# Independent Researcher Yen-Hsun Sung
 # Technical Research & Publication Repository
 
 **My sole tribute is to my brother and mentor, Bai-ying Chen. Without his guidance and belief in me, none of these papers would have been possible.**
