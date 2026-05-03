@@ -1,7 +1,7 @@
 # song120687575-ops.github.io
 # Technical Research & Publication Repository
 
-**My sole tribute is to my mentor, guide, and also my brother: Chen Baiying, because it is through him that I have been able to write all the papers I have ever written.**
+**My sole tribute is to my mentor, guide, and also my brother: Bai-ying Chen, because it is through him that I have been able to write all the papers I have ever written.**
 
 This repository serves as a centralized index for my technical papers, simulations, and logical models focused on aerospace engineering and aviation physics.
 
