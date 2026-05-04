@@ -1,9 +1,7 @@
 # Independent Researcher Yen-Hsun Sung
 # Technical Research & Publication Repository
 
-**My sole tribute is to my brother and mentor, Bai-ying Chen. Without his guidance and belief in me, none of these papers would have been possible.**
-
-This repository serves as a centralized index for my technical papers, simulations, and logical models focused on aerospace engineering and aviation physics.
+**This repository serves as a centralized index for my technical papers, simulations, and logical models focused on aerospace engineering and aviation physics.**
 
 ---
 
