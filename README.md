@@ -30,3 +30,13 @@
     *   **Abstract**: This paper proposes a self-sustaining underground Mars base using 3D-printed regolith and ISRU to ensure radiation protection and multi-planetary survival.
     *   **Core Logic**: Humanity must optimize physical habitat envelopes to the absolute limit to maximize propulsion efficiency and ensure multi-planetary survival.
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.20113520)](https://doi.org/10.5281/zenodo.20113520)
+## 6.The Reality of Taiwan's Rocket Dream and Land Acquisition Disputes Among Indigenous Peoples
+*   **Unstable Launch Power and Perpetual Concealment**
+    *   **Abstract**: This paper conducts a critical socio-technical analysis of Taiwan’s domestic aerospace endeavors, investigating the recurring propulsion instabilities of its scientific rockets and the systemic violations of indigenous tribal consultation rights under legal land acquisition frameworks.
+    *   **Core Logic**: State-sponsored and private technological ambitions must be structurally reconciled with indigenous land sovereignty, as technical non-transparency and the tactical concealment of failure data fundamentally undermine public institutional trust and systemic aerospace resilience.
+    *   **Resources**: In production, please stay tuned
+## 7.The Silicon Shield and Global Tech's Most Resilient Slaves
+*   *Deconstructing Taiwan's Vanishing Discourse Power and the Delusion of Semiconductor Complacency**
+    *   **Abstract**: This paper deconstructs the structural asymmetry within the global semiconductor supply chain, analyzing how advanced foundries operate under high-tech labor exploitation to satisfy transnational capital demands while systematically depleting domestic resource infrastructure and eroding autonomous geopolitical leverage.
+    *   **Core Logic**: True industrial sovereignty resides in foundational design standards and terminal ecosystem control rather than highly optimized manufacturing servitude, rendering the domestic celebration of GDP metrics an ideological blindspot that obfuscates the irreversible loss of strategic discourse power.
+    *   **Resources**: In production, please stay tuned
