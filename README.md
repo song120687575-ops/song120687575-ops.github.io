@@ -24,7 +24,8 @@
 *   **My Proposed Methods and Thoughts**
     *   **Abstract**: This study proposes combining a planetary gravity slingshot with an antimatter engine to achieve interstellar travel, reaching a speed of 0.5c, and ultimately arriving at Belial.
     *   **Core Logic**: The mission integrates a multi-planetary Gravity Waltz with Ablative Solar Thrust for initial escape, followed by Antimatter Propulsion to reach 0.5c, sustained by AI-driven autonomous resilience.
-    *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.20075050)](https://doi.org/10.5281/zenodo.20075050)
+    *   **(Damaged)**: [View on Zenodo (DOI: 10.5281/zenodo.20075050)](https://doi.org/10.5281/zenodo.20075050)
+    *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.20413688)](https://doi.org/10.5281/zenodo.20413688)
 ## 5.Humanity's dream of space colonization
 *   **building a permanent and sustainable base on Mars**
     *   **Abstract**: This paper proposes a self-sustaining underground Mars base using 3D-printed regolith and ISRU to ensure radiation protection and multi-planetary survival.
