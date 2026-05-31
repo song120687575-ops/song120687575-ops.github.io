@@ -41,7 +41,7 @@
     *   **Abstract**: This paper conducts a critical socio-technical analysis of Taiwan’s domestic aerospace endeavors, investigating the recurring propulsion instabilities of its scientific rockets and the systemic violations of indigenous tribal consultation rights under legal land acquisition frameworks.
     *   **Core Logic**: State-sponsored and private technological ambitions must be structurally reconciled with indigenous land sovereignty, as technical non-transparency and the tactical concealment of failure data fundamentally undermine public institutional trust and systemic aerospace resilience.
     *   Features:This is the first paper on Taiwan, and it has set records for the most pages, the first paper to exceed 50 pages (51 pages), the most words, the first paper to exceed 20,000 words (20,971 words), the most paragraphs and chapters, the first paper to enter the 20,000s (20 pages), and the most references (41).
-    *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.20113520)](https://doi.org/10.5281/zenodo.20469576)
+    *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.20469576)](https://doi.org/10.5281/zenodo.20469576)
 ## 7.The Silicon Shield and Global Tech's Most Resilient Slaves
 *   *Deconstructing Taiwan's Vanishing Discourse Power and the Delusion of Semiconductor Complacency**
     *   **Abstract**: This paper deconstructs the structural asymmetry within the global semiconductor supply chain, analyzing how advanced foundries operate under high-tech labor exploitation to satisfy transnational capital demands while systematically depleting domestic resource infrastructure and eroding autonomous geopolitical leverage.
