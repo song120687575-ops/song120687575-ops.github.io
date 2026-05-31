@@ -35,7 +35,7 @@
 *   **Unstable Launch Power and Perpetual Concealment**
     *   **Abstract**: This paper conducts a critical socio-technical analysis of Taiwan’s domestic aerospace endeavors, investigating the recurring propulsion instabilities of its scientific rockets and the systemic violations of indigenous tribal consultation rights under legal land acquisition frameworks.
     *   **Core Logic**: State-sponsored and private technological ambitions must be structurally reconciled with indigenous land sovereignty, as technical non-transparency and the tactical concealment of failure data fundamentally undermine public institutional trust and systemic aerospace resilience.
-    *   **Resources**: In production, please stay tuned
+    *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.20113520)](https://doi.org/10.5281/zenodo.20469576)
 ## 7.The Silicon Shield and Global Tech's Most Resilient Slaves
 *   *Deconstructing Taiwan's Vanishing Discourse Power and the Delusion of Semiconductor Complacency**
     *   **Abstract**: This paper deconstructs the structural asymmetry within the global semiconductor supply chain, analyzing how advanced foundries operate under high-tech labor exploitation to satisfy transnational capital demands while systematically depleting domestic resource infrastructure and eroding autonomous geopolitical leverage.
