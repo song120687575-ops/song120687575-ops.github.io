@@ -60,3 +60,9 @@
     *   **Core Logic**: Overcoming battery limits through hybrid structures, alternative propulsion, and progressive airspace regulations will define next-generation drone diversification.
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22070802)](https://doi.org/10.5281/zenodo.22070802)
     *   **Upload completion time**:8/23.2026
+## 9.The Dong Foundation's Complaint Against 'Yani Neko' Led to Its Removal From Streaming Platforms
+*   **The Rigidity of Taiwanese Regulations and the Countless Rights Protection Groups.**
+    *   **Abstract**: Strict Taiwan rules and advocacy led to the rapid, preventive removal of the anime Yani Neko over brand visibility.
+    *   **Core Logic**: Core LogicRigid rules and advocacy complaints push risk-averse platforms to preemptively ban content rather than assess artistic context.
+    *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22664933)](https://doi.org/10.5281/zenodo.22664933)
+    *   **Upload completion time**:9/09.2026
