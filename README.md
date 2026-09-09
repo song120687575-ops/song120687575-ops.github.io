@@ -66,3 +66,10 @@
     *   **Core Logic**: Core LogicRigid rules and advocacy complaints push risk-averse platforms to preemptively ban content rather than assess artistic context.
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22664933)](https://doi.org/10.5281/zenodo.22664933)
     *   **Upload completion time**:9/09.2026
+## 10.It could absolutely not have been accidental
+*   **outdated traditional beliefs and the driver's distorted mentality.**
+    *   **Abstract**: This paper investigates a tragic 2026 vehicular homicide in Taichung, analyzing how the driver’s deliberate secondary run-over converted a traffic negligence case into intentional murder fueled by the "better to kill than injure" myth.
+    *   **Core Logic**: Forensic evidence confirms the initial collision incapacitated the victim, while the driver’s conscious U-turn and targeted secondary strike establish direct intent to kill, exposing total legal and financial ruin.
+    *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22678970)](https://doi.org/10.5281/zenodo.226678970)
+    *   **Upload completion time**:9/09.2026
+
