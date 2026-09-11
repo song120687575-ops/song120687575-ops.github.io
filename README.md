@@ -72,4 +72,9 @@
     *   **Core Logic**: Forensic evidence confirms the initial collision incapacitated the victim, while the driver’s conscious U-turn and targeted secondary strike establish direct intent to kill, exposing total legal and financial ruin.
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22678970)](https://doi.org/10.5281/zenodo.22678970)
     *   **Upload completion time**:9/09.2026
-
+## 11.2026 China GT Fire Accident
+*   **The Organizer's Disregard for Human Life and the Display of Sporting Spirit**
+    *   **Abstract**: In the 2026 China GT fire, organizational cost-cutting caused total rescue failure, forcing a driver to save his trapped rival.
+    *   **Core Logic**: Organizers cut budgets by hiring untrained, underpaid temporary labor and delaying medical deployment. When a high-risk crash triggered a severe fire, unequipped marshals fled, exposing drivers to fatal institutional negligence.
+    *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22716112)](https://doi.org/10.5281/zenodo.22716112)
+    *   **Upload completion time**:9/12.2026
