@@ -78,3 +78,9 @@
     *   **Core Logic**: Organizers cut budgets by hiring untrained, underpaid temporary labor and delaying medical deployment. When a high-risk crash triggered a severe fire, unequipped marshals fled, exposing drivers to fatal institutional negligence.
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22716112)](https://doi.org/10.5281/zenodo.22716112)
     *   **Upload completion time**:9/12.2026
+## 12.Why is Hatsune Miku so popular？
+*   **Is the current barrier to entry for newcomers in the anime, comics, and games (ACG) culture and cosplay community really that high?**
+    *   **Abstract**: （waiting)
+    *   **Core Logic**: (waiting)
+    *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22738633)](https://doi.org/10.5281/zenodo.22738633)
+    *   **Upload completion time**:9/14.2026
