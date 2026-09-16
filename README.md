@@ -85,12 +85,7 @@
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22738633)](https://doi.org/10.5281/zenodo.22738633)
     *   **Upload completion time**:9/14.2026
 ## 13.Apple
-*   **From Industry Trendsetter to Ecosystem Rent-Seeker## 12.Why is Hatsune Miku so popular？**
-    *   **Abstract**: （waiting)
-    *   **Core Logic**: (waiting)
-    *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22738633)](https://doi.org/10.5281/zenodo.22738633)
-    *   **Upload completion time**:9/14.2026
-*   **Is the current barrier to entry for newcomers in the anime, comics, and games (ACG) culture and cosplay community really that high?**
+*   **From Industry Trendsetter to Ecosystem Rent-Seeker##
     *   **Abstract**: （waiting)
     *   **Core Logic**: (waiting)
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22759154)](https://doi.org/10.5281/zenodo.22759154)
