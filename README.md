@@ -82,7 +82,7 @@
 *   **Is the current barrier to entry for newcomers in the anime, comics, and games (ACG) culture and cosplay community really that high?**
     *   **Abstract**: This paper analyzes rising entry barriers and gatekeeping in contemporary ACG and cosplay communities, contrasting them with Vocaloid's open inclusiveness.
     *   **Core Logic**: As ACG culture shifted from decentralized fan production to algorithm-driven platforms, performative standards escalated, causing exclusionary gatekeeping and social hostility that deter beginners and threaten community growth.
-    *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22738633)](https://doi.org/10.5281/zenodo.22738633)
+    *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22738663)](https://doi.org/10.5281/zenodo.22738663)
     *   **Upload completion time**:9/14.2026
 ## 13.Apple
 *   **From Industry Trendsetter to Ecosystem Rent-Seeker**
