@@ -26,6 +26,7 @@
     *   **Core Logic**: Modeling the cost-benefit ratio of active remediation against passive collision avoidance, focusing on the deployment of "Shepherd Satellites" and Edge AI for real-time trajectory perturbation.
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.19372116)](https://doi.org/10.5281/zenodo.19372116)
     *   **Upload completion time**:4/01.2026
+    *   **Special Dates**:Artemis II launch
 ## 4.A Conceptual Design for Humanity's First Interstellar Journey to Proxima Centauri
 *   **My Proposed Methods and Thoughts**
     *   **Abstract**: This study proposes combining a planetary gravity slingshot with an antimatter engine to achieve interstellar travel, reaching a speed of 0.5c, and ultimately arriving at Proxima Centauri.
