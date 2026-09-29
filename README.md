@@ -96,3 +96,9 @@
     *   **Core Logic**: Driver focus loss is not the root cause, but a predictable symptom of systemic failures spanning rigid dispatching, flawed HMI, severe fatigue, political neglect, and punitive institutional culture.
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22847157)](https://doi.org/10.5281/zenodo.22847157)
     *   **Upload completion time**:9/19.2026
+## 15.F1
+*   ** From the pinnacle of technology and human innovation to an increasingly commercialized failure.**
+    *   **Abstract**: This paper argues that Formula 1's hyper-commercialization, excessive technical regulations, and driver homogenization have diluted its sporting purity, transforming the motorsport pinnacle into an emotionally hollow, finance-driven entertainment product.
+    *   **Core Logic**: Historical technical purity and human agency are systematically eroded by hybrid optimization, aggressive calendar expansion, and corporate sanitization, leading to an impending structural collapse as key iconic drivers retire.
+    *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.23045813)](https://doi.org/10.5281/zenodo.23045813)
+    *   **Upload completion time**:9/30.2026
