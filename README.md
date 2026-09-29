@@ -92,6 +92,7 @@
     *   **Core Logic**: As hardware markets matured, Apple pivoted from radical innovation to base monetization, leveraging walled-garden ecosystems and anticompetitive barriers to enforce platform captivity, leading to organizational decay.
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22759154)](https://doi.org/10.5281/zenodo.22759154)
     *   **Upload completion time**:9/15.2026
+    *   **Special Dates**:Shortly after Apple's fall event
 ## 14.A Taiwan Railways driver forgot to stop at northern Hsinchu, causing five carriages to extend beyond the platform
 *   **Was it really all the driver's fault? The Taiwan Railways system and Taiwan's transportation system.**
     *   **Abstract**: Deconstructing the 2026 North Hsinchu overshoot to prove human error stems from deep-seated, socio-technical system vulnerabilities in Taiwan's railway infrastructure.
