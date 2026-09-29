@@ -34,6 +34,7 @@
     *   **version 1(Page not found)**: [View on Zenodo (DOI: 10.5281/zenodo.20075050)](https://doi.org/10.5281/zenodo.20075050)
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.20413688)](https://doi.org/10.5281/zenodo.20413688)
     *   **Upload completion time**:5/08.2026
+    *   **Special Dates**:My birthday
 ## 5.Humanity's dream of space colonization
 *   **building a permanent and sustainable base on Mars**
     *   **Abstract**: This paper proposes a self-sustaining underground Mars base using 3D-printed regolith and ISRU to ensure radiation protection and multi-planetary survival.
@@ -102,3 +103,4 @@
     *   **Core Logic**: Historical technical purity and human agency are systematically eroded by hybrid optimization, aggressive calendar expansion, and corporate sanitization, leading to an impending structural collapse as key iconic drivers retire.
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.23045813)](https://doi.org/10.5281/zenodo.23045813)
     *   **Upload completion time**:9/30.2026
+    *   **Special Dates**:Max Verstappen's birthday
