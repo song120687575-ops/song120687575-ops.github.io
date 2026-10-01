@@ -97,6 +97,7 @@
 *   **Was it really all the driver's fault? The Taiwan Railways system and Taiwan's transportation system.**
     *   **Abstract**: Deconstructing the 2026 North Hsinchu overshoot to prove human error stems from deep-seated, socio-technical system vulnerabilities in Taiwan's railway infrastructure.
     *   **Core Logic**: Driver focus loss is not the root cause, but a predictable symptom of systemic failures spanning rigid dispatching, flawed HMI, severe fatigue, political neglect, and punitive institutional culture.
+    *   **Features**:The number of pages and words surpassed the previous sixth article, reaching an astonishing 30,000 words (the new record is 30,641 words) and 75 pages.
     *   **Resources**: [View on Zenodo (DOI: 10.5281/zenodo.22847157)](https://doi.org/10.5281/zenodo.22847157)
     *   **Upload completion time**:9/19.2026
 ## 15.F1
