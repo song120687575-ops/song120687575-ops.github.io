@@ -1,3 +1,11 @@
+# Website Migration Notice
+**This website is no longer actively maintained.
+My research archive and personal academic website have been moved to a new platform, designed to provide a clearer and more accessible overview of my research, publications, and academic work.
+For the latest information, publications, research interests, biography, and other updates, please visit my new website:
+Yen-Hsun Sung Academic Archive
+https://sites.google.com/view/yh-sung-rsch
+This GitHub repository will remain available as an archive of my previous website and materials, but it will no longer receive regular updates.
+Thank you for visiting.**
 # Independent Researcher Yen-Hsun Sung
 # Technical Research & Publication Repository
 
